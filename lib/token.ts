@@ -1,0 +1,5 @@
+export const TOKENS: Record<string, string> = {
+  USDC: 'EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v',
+  SOL: 'So11111111111111111111111111111111111111112',
+  JUP: 'JUP4Fb2cqiRUcaTHdrPC8h2gNsA2ETXiPDD33WcGuJB',
+}

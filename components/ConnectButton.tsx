@@ -3,5 +3,5 @@
 import { WalletMultiButton } from '@solana/wallet-adapter-react-ui'
 
 export default function ConnectButton() {
-    return <WalletMultiButton className='!bg-green-600 mt-4'/>
+    return <WalletMultiButton className='!bg-green-600 mt-4' />
 }
